@@ -1,0 +1,25 @@
+--- CITY GUIDE + TRAVEL REPORT ---
+Generated for: kolhapur
+Date: 2025-10-29T16:52:52.085278
+-----------------------------------
+
+[1] LIVE WEATHER AND FORECAST
+Current Conditions: Simulated: kolhapur, 25°C, Variable Clouds.
+5-Day Forecast: Simulated 5-Day: Generally stable temperatures and conditions.
+
+[2] TOP PLACES
+Simulated: Popular Tourist Spots (e.g.
+ - City Palace
+ - Main Market)
+
+Map Link: https://www.google.com/maps/search/kolhapur+India+tourist+attractions
+
+[3] TRAVEL ADVISORY
+Safety Tips: Be cautious in crowded areas. Validate all tourist booking agents. India is generally safe, but local research is advised.
+
+[4] SAVED BOOKMARKS
+PUNE
+MUMBAI
+ICHALKARANJI
+KASHMIR
+KOLHAPUR
